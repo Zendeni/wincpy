@@ -33,5 +33,4 @@ name_short = player[0] + '. ' + last_name
 chant = (first_name + "! ") * first_name_len
 chant = f"{chant.rstrip()}"
 
-
 good_chant = chant != str("Frank! Frank! Frank! Frank! Frank! ")
